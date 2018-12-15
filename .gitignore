@@ -1,0 +1,11 @@
+.vs
+
+packages
+
+[Bb]in
+[Oo]bj
+
+*.csproj.user
+*.sln.user
+*.DotSettings.user
+*.DotSettings
